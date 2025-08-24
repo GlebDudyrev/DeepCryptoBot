@@ -1,0 +1,1 @@
+It`s prototype of CryptoBotProject.
